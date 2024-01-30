@@ -1,0 +1,13 @@
+.formwrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px; /* Reduced margin to decrease height */
+    padding: 10px; /* Reduced padding to decrease height */
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.form{
+    
+}
